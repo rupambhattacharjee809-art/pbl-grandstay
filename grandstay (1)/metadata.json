@@ -1,0 +1,6 @@
+{
+  "name": "GrandStay",
+  "description": "GrandStay luxury hotel, private villa, and curated tour booking platform powered by an Express JS backend and MongoDB database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
